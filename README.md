@@ -8,10 +8,15 @@ do not enter letters when selecting from the meny
 RUN application from Main.java
 
 Step 1: create a warehouse (menu #5)
+
         enter a name for the warehouse.
+        
 Step 2: create an Item (menu #1)
+
         you will make a name and a description for the item
+        
 Step 3: create another Item (menu#1)
+
 Step 4: create another warehouse (menu #5)
 Step 5: create as many Items as you want
 Step 6: read an item (menu #2)
