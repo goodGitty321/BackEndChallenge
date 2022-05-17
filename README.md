@@ -5,7 +5,12 @@ There is a menu to follow.
 Enter digits 1-8 to go through the menu.
 do not enter letters when selecting from the meny
 
-RUN application from Main.java
+On replit.com
+
+Step 0: click Run (at the top of replit page or in the console type javac *.java)
+
+Step 00: in the console type:
+          java Main
 
 Step 1: create a warehouse (menu #5)
 
