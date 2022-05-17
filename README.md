@@ -5,6 +5,8 @@ There is a menu to follow.
 Enter digits 1-8 to go through the menu.
 do not enter letters when selecting from the meny
 
+RUN application from Main.java
+
 Step 1: create a warehouse (menu #5)
         enter a name for the warehouse.
 Step 2: create an Item (menu #1)
